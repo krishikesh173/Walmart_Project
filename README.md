@@ -18,7 +18,7 @@
 This project involves the analysis of Walmart sales data to gain insights into various aspects of the business, such as product sales, customer behavior, and overall performance. The analysis is performed using SQL queries on a MySQL database.
 
 ## Database and Table Schema
-
+The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition(https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data).
 The project begins by creating a database named `walmart_db` and using it to store the sales data in a table named `walmart_data`. The table includes fields such as `Unit price`, `Total`, `Time`, `Tax 5%`, `Rating`, `Quantity`, `Product line`, `Payment`, and more, each with its respective data type and constraints.
 
 ## Data Cleaning and Preparation
